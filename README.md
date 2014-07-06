@@ -20,7 +20,7 @@ It's also possible deploy on tomcat if you configure your tomcat-users.xml and m
 
 ### Kalaha Game 
 
-Home URL http://localhost:8080/mancala/
+Home URL `http://localhost:8080/mancala/` 
 
 ### Board Setup 
 
