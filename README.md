@@ -1,4 +1,8 @@
-# Application Test #
+# Kahala or Mancala Game #
+
+This is an example of how I implemented the code by reading the requirements.
+It doesn't use WebSockets and there is not a beautiful front-end.
+This exercise is focused on the algorithm and OOP designing.
 
 ## Getting Started ##
 
