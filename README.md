@@ -10,20 +10,18 @@ It's also possible deploy on tomcat if you configure your tomcat-users.xml and m
 
 `mvn tomcat:deploy`
 
-Kalaha Game
+### Kalaha Game ###
 
 Home URL http://localhost:8080/mancala/
 
-Board Setup
+### Board Setup ### 
 
 Each of the two players has his six pits in front of him. To the right of the six pits, each player has a larger pit, his Kalaha. In each of the six round pits are put six stones when the game starts.
 
-Kalaha Rules
+### Kalaha Rules ### 
 
 Game Play
 The player who begins with the first move picks up all the stones in anyone of his own six pits, and sows the stones on to the right, one in each of the following pits, including his own Kalaha. No stones are put in the opponents' Kalaha. If the player's last stone lands in his own Kalaha, he gets another turn. This can be repeated several times before it's the other player's turn.
-
-
 
 
 Capturing Stones
