@@ -1,4 +1,4 @@
-# Kahala or Mancala Game #
+# Kahala or Kalaha or Mancala Game #
 
 This is an example of how I implemented the code by reading the requirements.
 It doesn't use WebSockets and there is not a beautiful front-end.
